@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AssetCollectorSerializeData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ShowPackageView="true" EnableAddressable="true" UniqueBundleName="false" ShowEditorAlias="false">
+  <Packages PackageName="DefaultPackage" PackageDesc="">
+    <Groups>
+      <AssetBundleCollectorGroup GroupName="battle" GroupDesc="战斗" AssetTags="" ActiveRuleName="EnableGroup">
+        <Collectors>
+          <AssetBundleCollector CollectPath="Assets/Space Shooter/GameRes/Effect" CollectorGuid="80d76514758554baaa96a9efffe9f3ef" CollectorType="MainAssetCollector" AddressRuleName="AddressByFileName" PackRuleName="PackDirectory" FilterRuleName="CollectAll">
+            <AssetTags />
+            <UserData />
+          </AssetBundleCollector>
+          <AssetBundleCollector CollectPath="Assets/Space Shooter/GameRes/Entity" CollectorGuid="4d7c84745db8e884f8020a8c5356e67c" CollectorType="MainAssetCollector" AddressRuleName="AddressByFileName" PackRuleName="PackDirectory" FilterRuleName="CollectAll">
+            <AssetTags />
+            <UserData />
+          </AssetBundleCollector>
+          <AssetBundleCollector CollectPath="Assets/Space Shooter/GameRes/Audio" CollectorGuid="306075fbe00b24251b6c889984a7a7d5" CollectorType="MainAssetCollector" AddressRuleName="AddressByFileName" PackRuleName="PackDirectory" FilterRuleName="CollectAll">
+            <AssetTags />
+            <UserData />
+          </AssetBundleCollector>
+        </Collectors>
+      </AssetBundleCollectorGroup>
+      <AssetBundleCollectorGroup GroupName="shader" GroupDesc="着色器" AssetTags="" ActiveRuleName="EnableGroup">
+        <Collectors>
+          <AssetBundleCollector CollectPath="Assets/Space Shooter/GameArt/ShaderVariants" CollectorGuid="00781758c26692e40a9634ddeac838be" CollectorType="MainAssetCollector" AddressRuleName="AddressByFileName" PackRuleName="PackShaderVariants" FilterRuleName="CollectShaderVariants">
+            <AssetTags />
+            <UserData />
+          </AssetBundleCollector>
+        </Collectors>
+      </AssetBundleCollectorGroup>
+      <AssetBundleCollectorGroup GroupName="scene" GroupDesc="场景" AssetTags="" ActiveRuleName="EnableGroup">
+        <Collectors>
+          <AssetBundleCollector CollectPath="Assets/Space Shooter/GameRes/Scene" CollectorGuid="6070eae1192f2994887f2983a177d503" CollectorType="MainAssetCollector" AddressRuleName="AddressByFileName" PackRuleName="PackSeparately" FilterRuleName="CollectAll">
+            <AssetTags />
+            <UserData />
+          </AssetBundleCollector>
+        </Collectors>
+      </AssetBundleCollectorGroup>
+      <AssetBundleCollectorGroup GroupName="ugui" GroupDesc="面板" AssetTags="" ActiveRuleName="EnableGroup">
+        <Collectors>
+          <AssetBundleCollector CollectPath="Assets/Space Shooter/GameRes/UIImage" CollectorGuid="30c57db62bb02a24590e7046d3a9e33a" CollectorType="MainAssetCollector" AddressRuleName="AddressByFileName" PackRuleName="PackDirectory" FilterRuleName="CollectAll">
+            <AssetTags />
+            <UserData />
+          </AssetBundleCollector>
+          <AssetBundleCollector CollectPath="Assets/Space Shooter/GameRes/UIPanel" CollectorGuid="12d33f33f3a55224c9c747d7bffa1c68" CollectorType="MainAssetCollector" AddressRuleName="AddressByFileName" PackRuleName="PackSeparately" FilterRuleName="CollectAll">
+            <AssetTags />
+            <UserData />
+          </AssetBundleCollector>
+          <AssetBundleCollector CollectPath="Assets/Space Shooter/GameRes/UISprite" CollectorGuid="01865ad6f7c806147b6cb37f2d83bc96" CollectorType="MainAssetCollector" AddressRuleName="AddressByFileName" PackRuleName="PackTopDirectory" FilterRuleName="CollectAll">
+            <AssetTags />
+            <UserData />
+          </AssetBundleCollector>
+        </Collectors>
+      </AssetBundleCollectorGroup>
+      <AssetBundleCollectorGroup GroupName="config" GroupDesc="配置表" AssetTags="" ActiveRuleName="EnableGroup">
+        <Collectors>
+          <AssetBundleCollector CollectPath="Assets/Space Shooter/GameRes/Config" CollectorGuid="1894d23646ddbf8479e579cc03261dde" CollectorType="MainAssetCollector" AddressRuleName="AddressByFileName" PackRuleName="PackRawFile" FilterRuleName="CollectAll">
+            <AssetTags />
+            <UserData />
+          </AssetBundleCollector>
+        </Collectors>
+      </AssetBundleCollectorGroup>
+    </Groups>
+  </Packages>
+</AssetCollectorSerializeData>

@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 239f1e1661844f84b442f54158f55b01, type: 3}
+  m_Name: UniverseSetting
+  m_EditorClassIdentifier: 
+  BuildOptions:
+    OutputName: UniverseEngine
+    Extension: .exe
+    Scenes: []
+    OutputDirectory: 
+    AssetBundleManifestPath: 
+    TargetGroup: 0
+    Target: 19
+    ScreenMode: 3
+    Options: 0
+    ScriptingImplementation: 0
+    ApiCompatibilityLevel: 0
+    ExtraScriptingDefines: []
+  BuildSetting:
+    CompanyName: UniverseStudio
+    ProductName: UniverseEngine
+    ShowUnitySplashScreen: 0
+    LogoStyle: 0
+    TargetColorSpace: 1
+    DefaultScreenWidth: 1920
+    DefaultScreenHeight: 1080
+    RunInBackground: 1
+    CaptureSingleScreen: 0
+    WriteDebugLog: 1
+    ResizableWindow: 1
+    ResetResolutionOnWindowResize: 1
+    PrebakeCollisionMeshes: 1
+    UseHDRDisplay: 0
+    AllowFullScreenSwitch: 1
+    ForceSingletonInstance: 1
+    UseFlipModelSwapChainForD3D11: 1

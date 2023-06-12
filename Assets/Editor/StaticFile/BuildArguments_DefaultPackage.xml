@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BuildArguments xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" WriteLinkXML="false">
+  <CacheServerPort>0</CacheServerPort>
+  <OutputRoot>D:/Project/USquad/UniverseBundles</OutputRoot>
+  <BuildTarget>StandaloneWindows64</BuildTarget>
+  <BuildPipeline>BuiltinBuildPipeline</BuildPipeline>
+  <BuildMode>ForceRebuild</BuildMode>
+  <PackageName>DefaultPackage</PackageName>
+  <PackageVersion>0.1.0</PackageVersion>
+  <VerifyBuildingResult>true</VerifyBuildingResult>
+  <ShareAssetPackRule>Default</ShareAssetPackRule>
+  <EncryptionServices>None</EncryptionServices>
+  <OutputNameStyle>BundleName_HashName</OutputNameStyle>
+  <CopyBuildinFileOption>ClearAndCopyAll</CopyBuildinFileOption>
+  <CopyBuildinFileTags />
+  <CompressOption>LZ4</CompressOption>
+  <DisableWriteTypeTree>false</DisableWriteTypeTree>
+  <IgnoreTypeTreeChanges>false</IgnoreTypeTreeChanges>
+</BuildArguments>
